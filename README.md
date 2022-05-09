@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heritier24&label=Profile%20views&color=0e75b6&style=flat" alt="heritier24" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heritier24" alt="heritier24" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ganza_heritier" target="blank"><img src="https://img.shields.io/twitter/follow/ganza_heritier?logo=twitter&style=for-the-badge" alt="ganza_heritier" /></a> </p>
+
 - 🔭 I’m currently working on [kudibooks](kudibooks.com)
 
 - 🌱 I’m currently learning **javascript, jest, tailwind**
@@ -12,6 +16,10 @@
 - 📫 How to reach me **ganzatambaheritier24@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
