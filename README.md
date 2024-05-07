@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ganza_heritier" target="blank"><img src="https://img.shields.io/twitter/follow/ganza_heritier?logo=twitter&style=for-the-badge" alt="ganza_heritier" /></a> </p>
 
-- 🔭 I’m currently working on App called # IKIMINA
+- 🔭 I’m currently working on App called # Daily Steady
 
 - 🌱 I’m currently learning **javascript, jest, tailwind**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ganzatambaheritier24@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I enjoy the progress **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
