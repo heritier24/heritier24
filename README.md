@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ganzatambaheritier24@gmail.com**
 
-- ⚡ Fun fact **I enjoy the progress **
+- ⚡ Fun fact ** Somehow i keep adding more to my plate like coding * but still expect to have time to breathe 😆 # i think there are 48 hours in a day instead of 24 **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
