@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Heritier Ganza Tamba</h1>
+<h1 align="center">"I’m a developer and innovator using technology to solve high-impact problems in weather, health, and infrastructure — building tools that promote stability and regional growth. I'm driven by collaboration, open standards, and sustainable tech ecosystems."
+
+🔹 Key focus: collaboration, problem-solving, scalable architecture.</h1>
 <h3 align="center">Software Developer Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heritier24&label=Profile%20views&color=0e75b6&style=flat" alt="heritier24" /> </p>
