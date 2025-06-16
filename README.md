@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ganza_heritier" target="blank"><img src="https://img.shields.io/twitter/follow/ganza_heritier?logo=twitter&style=for-the-badge" alt="ganza_heritier" /></a> </p>
 
-- 🔭 I’m currently working on App called # Daily Steady
+- 🔭 I’m currently working on App called # Estate Rwanda
 
 - 🌱 I’m currently learning **javascript, jest, tailwind**
 
